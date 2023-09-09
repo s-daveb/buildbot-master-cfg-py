@@ -1,4 +1,4 @@
-A flexible buildobt master.cfg for building C/C++/Obj-C projects.
+A flexible buildbot master.cfg for building C/C++/Obj-C projects.
 
 Supports both autoconf and cmake, and is designed to work with my DockerFiles and BastilleFiles hoste don this github profile.
 
