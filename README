@@ -1,0 +1,7 @@
+A flexible buildobt master.cfg for building C/C++/Obj-C projects.
+
+Supports both autoconf and cmake, and is designed to work with my DockerFiles and BastilleFiles hoste don this github profile.
+
+I've been quietly building this on my jailed server, and wanted to start tracking changes after refactoring it and making it much more flexible.
+
+This was also a fun exercise in Python.
